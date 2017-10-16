@@ -1,0 +1,1 @@
+Following "https://app.pluralsight.com/library/courses/azure-serverless-applications/table-of-contents" on pluralsight
